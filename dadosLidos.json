@@ -2,103 +2,215 @@
     "dadosLidos": [
         {
             "id": 1,
-            "detectando": "VERMELHO",
-            "data": [
-                2023,
-                9,
-                13,
-                23,
-                44,
-                29,
-                2,
-                256,
-                0
-            ]
+            "detectando": "AZUL"
+        },
+        {
+            "id": 2,
+            "detectando": "AZUL"
+        },
+        {
+            "id": 3,
+            "detectando": "VERDE"
+        },
+        {
+            "id": 4,
+            "detectando": "NADA"
         },
         {
             "id": 1,
-            "detectando": "AZUL",
-            "data": [
-                2023,
-                9,
-                13,
-                23,
-                44,
-                34,
-                2,
-                256,
-                0
-            ]
+            "detectando": "VERMELHO"
+        },
+        {
+            "id": 2,
+            "detectando": "AMARELO"
+        },
+        {
+            "id": 3,
+            "detectando": "VERMELHO"
         },
         {
             "id": 1,
-            "detectando": "AMARELO",
-            "data": "Wed Sep 13 20:45:05 2023"
+            "detectando": "AZUL"
+        },
+        {
+            "id": 4,
+            "detectando": "AZUL"
+        },
+        {
+            "id": 2,
+            "detectando": "AZUL"
         },
         {
             "id": 1,
-            "detectando": "VERMELHO",
-            "data": "Wed Sep 13 20:45:10 2023"
+            "detectando": "VERMELHO"
+        },
+        {
+            "id": 3,
+            "detectando": "NADA"
+        },
+        {
+            "id": 4,
+            "detectando": "VERDE"
+        },
+        {
+            "id": 2,
+            "detectando": "VERMELHO"
         },
         {
             "id": 1,
-            "detectando": "VERMELHO",
-            "data": "Wed Sep 13 20:45:15 2023"
+            "detectando": "VERMELHO"
+        },
+        {
+            "id": 3,
+            "detectando": "AZUL"
         },
         {
             "id": 1,
-            "detectando": "VERDE",
-            "data": "Wed Sep 13 20:45:20 2023"
+            "detectando": "NADA"
+        },
+        {
+            "id": 2,
+            "detectando": "AMARELO"
+        },
+        {
+            "id": 4,
+            "detectando": "VERMELHO"
+        },
+        {
+            "id": 3,
+            "detectando": "AZUL"
         },
         {
             "id": 1,
-            "detectando": "VERDE",
-            "data": "Wed Sep 13 20:45:25 2023"
+            "detectando": "AZUL"
+        },
+        {
+            "id": 2,
+            "detectando": "VERDE"
+        },
+        {
+            "id": 4,
+            "detectando": "VERDE"
         },
         {
             "id": 1,
-            "detectando": "AZUL",
-            "data": "Wed Sep 13 20:45:30 2023"
+            "detectando": "VERMELHO"
+        },
+        {
+            "id": 3,
+            "detectando": "VERDE"
+        },
+        {
+            "id": 2,
+            "detectando": "AMARELO"
         },
         {
             "id": 1,
-            "detectando": "VERDE",
-            "data": "Wed Sep 13 20:45:35 2023"
+            "detectando": "AZUL"
+        },
+        {
+            "id": 4,
+            "detectando": "NADA"
+        },
+        {
+            "id": 2,
+            "detectando": "VERMELHO"
+        },
+        {
+            "id": 3,
+            "detectando": "AZUL"
         },
         {
             "id": 1,
-            "detectando": "AMARELO",
-            "data": "Wed Sep 13 20:45:40 2023"
+            "detectando": "AMARELO"
+        },
+        {
+            "id": 2,
+            "detectando": "AZUL"
         },
         {
             "id": 1,
-            "detectando": "AZUL",
-            "data": "Wed Sep 13 20:45:45 2023"
+            "detectando": "AZUL"
+        },
+        {
+            "id": 4,
+            "detectando": "NADA"
+        },
+        {
+            "id": 3,
+            "detectando": "NADA"
         },
         {
             "id": 1,
-            "detectando": "AZUL",
-            "data": "Wed Sep 13 20:45:50 2023"
+            "detectando": "AMARELO"
+        },
+        {
+            "id": 2,
+            "detectando": "AMARELO"
+        },
+        {
+            "id": 3,
+            "detectando": "NADA"
+        },
+        {
+            "id": 4,
+            "detectando": "VERDE"
         },
         {
             "id": 1,
-            "detectando": "VERDE",
-            "data": "Wed Sep 13 20:45:55 2023"
+            "detectando": "NADA"
+        },
+        {
+            "id": 2,
+            "detectando": "NADA"
+        },
+        {
+            "id": 3,
+            "detectando": "AMARELO"
         },
         {
             "id": 1,
-            "detectando": "VERDE",
-            "data": "Wed Sep 13 20:46:00 2023"
+            "detectando": "VERMELHO"
+        },
+        {
+            "id": 4,
+            "detectando": "AZUL"
+        },
+        {
+            "id": 2,
+            "detectando": "AMARELO"
         },
         {
             "id": 1,
-            "detectando": "AMARELO",
-            "data": "Wed Sep 13 20:46:05 2023"
+            "detectando": "VERDE"
+        },
+        {
+            "id": 3,
+            "detectando": "AMARELO"
+        },
+        {
+            "id": 2,
+            "detectando": "AZUL"
+        },
+        {
+            "id": 4,
+            "detectando": "NADA"
         },
         {
             "id": 1,
-            "detectando": "AMARELO",
-            "data": "Wed Sep 13 20:46:10 2023"
+            "detectando": "AMARELO"
+        },
+        {
+            "id": 3,
+            "detectando": "AZUL"
+        },
+        {
+            "id": 2,
+            "detectando": "VERDE"
+        },
+        {
+            "id": 1,
+            "detectando": "VERDE"
         }
     ]
 }
