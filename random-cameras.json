@@ -2,82 +2,102 @@
   "cameras": [
     {
       "id": 1,
+      "rua": "A",
       "detectando": "VERDE"
     },
     {
       "id": 1,
+      "rua": "A",
       "detectando": "AMARELO"
     },
     {
       "id": 1,
+      "rua": "A",
       "detectando": "VERMELHO"
     },
     {
       "id": 1,
+      "rua": "A",
       "detectando": "AZUL"
     },
     {
       "id": 1,
+      "rua": "A",
       "detectando": "NADA"
     },
     {
       "id": 2,
+      "rua": "B",
       "detectando": "VERDE"
     },
     {
       "id": 2,
+      "rua": "B",
       "detectando": "AMARELO"
     },
     {
       "id": 2,
+      "rua": "B",
       "detectando": "VERMELHO"
     },
     {
       "id": 2,
+      "rua": "B",
       "detectando": "AZUL"
     },
     {
       "id": 2,
+      "rua": "B",
       "detectando": "NADA"
     },
     {
       "id": 3,
+      "rua": "C",
       "detectando": "VERDE"
     },
     {
       "id": 3,
+      "rua": "C",
       "detectando": "AMARELO"
     },
     {
       "id": 3,
+      "rua": "C",
       "detectando": "VERMELHO"
     },
     {
       "id": 3,
+      "rua": "C",
       "detectando": "AZUL"
     },
     {
       "id": 3,
+      "rua": "C",
       "detectando": "NADA"
     },
     {
       "id": 4,
+      "rua": "D",
       "detectando": "VERDE"
     },
     {
       "id": 4,
+      "rua": "D",
       "detectando": "AMARELO"
     },
     {
       "id": 4,
+      "rua": "D",
       "detectando": "VERMELHO"
     },
     {
       "id": 4,
+      "rua": "D",
       "detectando": "AZUL"
     },
     {
       "id": 4,
+      "rua": "D",
       "detectando": "NADA"
     }
   ]

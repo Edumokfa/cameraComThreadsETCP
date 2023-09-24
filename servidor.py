@@ -69,7 +69,7 @@ def criaServidorPolicia():
                     elif int(jsonRecebido['tipo']) == 2: 
                         if item['id'] == int(jsonRecebido['filtro']):
                             dadosFiltrados['retorno'].append(item)
-                message = json.dumps(dadosFiltrados)
+                message = json.dumps(dadosFiltrados, indent=4)
             print(message)
             client_socket.send(message.encode())
 

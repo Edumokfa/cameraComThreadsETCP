@@ -10,7 +10,7 @@ while True:
     try:
         client_socket.connect((server_ip, server_port))
 
-        filtroTipo = input("Você deseja encontrar informações de: \n 1 - indivíduo detectado \n 2 - Código da Câmera \n")
+        filtroTipo = input("---------------------------------------------\n Você deseja encontrar informações de: \n\n 1 - Indivíduo detectado \n 2 - Código da Câmera \n---------------------------------------------\n")
         filtroTipo = int(filtroTipo)
         if filtroTipo == 1:
             filtro = input("Informe o Indivíduo detectado, podendo ser: VERMELHO, VERDE, AZUL, AMARELO, NADA \n")
@@ -20,7 +20,7 @@ while True:
         message = {"tipo": filtroTipo, "filtro": filtro}
         client_socket.sendall(json.dumps(message).encode())
         retorno = client_socket.recv(1024).decode()
-        print("Retorno:", retorno)
+        print(retorno)
     except ConnectionRefusedError:
         print("Não foi possível conectar ao servidor.")
     finally:
